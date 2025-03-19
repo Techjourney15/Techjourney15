@@ -11,7 +11,9 @@ A machine learning project using **Logistic Regression** to classify news articl
 
 ### 🌦️ [**Weather Dashboard**](https://github.com/Techjourney15/weather-dashboard)
 A graphical weather dashboard created using **Pygame** that displays real-time weather data with visually appealing graphics.
----
+
+--- 
+
 ## 🛠️ **Technologies & Tools**
 
 - **Languages**: Python, C, C++, HTML, CSS, JS
