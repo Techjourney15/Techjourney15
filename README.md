@@ -6,17 +6,12 @@ Welcome to my GitHub profile! I'm an aspiring **Python Developer** with a focus 
 
 ## 🚀 **Projects**
 
-### 🧮 [**Simple Calculator**](https://github.com/Techjourney15/simple-calculator)
-A Python-based calculator that performs basic arithmetic operations.
-
 ### 📰 [**Fake News Detection**](https://github.com/Techjourney15/fake-news-detection)
 A machine learning project using **Logistic Regression** to classify news articles as **fake** or **real** based on a dataset. Data manipulation was done using **Pandas** for preprocessing, and **NumPy** for numerical computations.
 
 ### 🌦️ [**Weather Dashboard**](https://github.com/Techjourney15/weather-dashboard)
 A graphical weather dashboard created using **Pygame** that displays real-time weather data with visually appealing graphics.
-
 ---
-
 ## 🛠️ **Technologies & Tools**
 
 - **Languages**: Python, C, C++, HTML, CSS, JS
@@ -24,20 +19,15 @@ A graphical weather dashboard created using **Pygame** that displays real-time w
 - **Machine Learning**: **Logistic Regression**, **Scikit-learn**
 - **Graphics**: **Pygame**
 - **Version Control**: **Git**, **GitHub**
-
 ---
-
 ## 📚 **What I’m Learning & Exploring**
 
-
 - Exploring advanced **Machine Learning** models
-
 ---
-
 ## 📫 **Let’s Connect!**
 
 - 📧 Email: [regmianshu307@gmail.com](mailto:regmianshu307@gmail.com)
-- 🌐 LinkedIn: [Anshu Regmi](https://www.linkedin.com/in/anshu-regmi)
+- 🌐 LinkedIn: [Anshu Regmi](https://www.linkedin.com/in/anshu-regmi-708b67317/)
 
 ---
 
