@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Anshu Regmi!
 
-<!--
-**Techjourney15/Techjourney15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring **Python Developer** with a focus on data science, machine learning, and graphical projects. Explore my repositories to see my work!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Projects**
+
+### 🧮 [**Simple Calculator**](https://github.com/Techjourney15/simple-calculator)
+A Python-based calculator that performs basic arithmetic operations.
+
+### 📰 [**Fake News Detection**](https://github.com/Techjourney15/fake-news-detection)
+A machine learning project using **Logistic Regression** to classify news articles as **fake** or **real** based on a dataset. Data manipulation was done using **Pandas** for preprocessing, and **NumPy** for numerical computations.
+
+### 🌦️ [**Weather Dashboard**](https://github.com/Techjourney15/weather-dashboard)
+A graphical weather dashboard created using **Pygame** that displays real-time weather data with visually appealing graphics.
+
+---
+
+## 🛠️ **Technologies & Tools**
+
+- **Languages**: Python, C, C++, HTML, CSS, JS
+- **Data Manipulation**: **Pandas**, **NumPy**
+- **Machine Learning**: **Logistic Regression**, **Scikit-learn**
+- **Graphics**: **Pygame**
+- **Version Control**: **Git**, **GitHub**
+
+---
+
+## 📚 **What I’m Learning & Exploring**
+
+
+- Exploring advanced **Machine Learning** models
+
+---
+
+## 📫 **Let’s Connect!**
+
+- 📧 Email: [regmianshu307@gmail.com](mailto:regmianshu307@gmail.com)
+- 🌐 LinkedIn: [Anshu Regmi](https://www.linkedin.com/in/anshu-regmi)
+
+---
+
+⭐ **Feel free to explore my repositories!** 💻
+
